@@ -21,7 +21,9 @@ My point is that technology advances at an astounding rate across the board. But
 
 DBMS to Stay Current
 
-A database management system, or DBMS, is a collection of applications that are used to manage database structure and control access to a store data system. DBMS sits in between the user and data and acts as an intermediary, it's the only way a user can access data in a database. 
+A database management system, or DBMS, is a collection of applications that are used to manage database structure and control access to a store data system. A DBMS sits in between the user and data and acts as an intermediary, it's the only way a user can access data in a database. DBMS' can be written in early any programming language, ensuring that the concept is used nearly everywhere that a database exists. 
+
+The flexibly of a DBMS to written a lot of languages lends the concept to being able to be updated as new technologies come into existence. The roles of a DBMS 
 
 
 Difference Between Data and Information
@@ -34,7 +36,7 @@ Considering the fact that I have pretty much exclusively used the words 'data' a
     Information - noun.
     1: knowledge obtained from investigation, study, or instruction
 
-Anomalies
+Anomalies - What, How and Impact
 
 
 
@@ -51,6 +53,8 @@ Impact of "The Cloud"
 References
 
 Desjardins, J. (2018.) The Rising Speed of Technological Adoption. Visual Capitalist. Retrieved from https://www.visualcapitalist.com/rising-speed-technological-adoption/
+
+Cornel, C. & Morris, S. (2017.) Chapter 1 Database Systems, 1-3 Introducing the Database. DATABASE SYSTEMS Design, Implementation, and Management. 12e.
 
 Merriam-Webster. (n.d.). Data. In Merriam-Webster.com dictionary. Retrieved from https://www.merriam-webster.com/dictionary/data
 
