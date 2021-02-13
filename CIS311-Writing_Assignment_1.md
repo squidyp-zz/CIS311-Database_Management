@@ -21,7 +21,7 @@ My point is that technology advances at an astounding rate across the board. But
 
 DBMS to Stay Current
 
-
+A database management system, or DBMS, is a collection of applications that are used to manage database structure and control access to a store data system. DBMS sits in between the user and data and acts as an intermediary, it's the only way a user can access data in a database. 
 
 
 Difference Between Data and Information
