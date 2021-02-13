@@ -1,6 +1,5 @@
 Question: Write a paper of 800 – 1,000 words in APA format about The Information Age. Be sure to include the following in your assignment:
 
-- Discuss why it is important to stay relevant in the information age.
 - Explain a DBMS and how it helps us to stay current in the information age.
 - Demonstrate the difference between data and information.
 - Explore anomalies (what they are, how to avoid them, and potential impacts.)
@@ -8,21 +7,26 @@ Question: Write a paper of 800 – 1,000 words in APA format about The Informati
 - Explore the impact of “The Cloud.”
 
 
-## <center>The Information Age</center>
+The Information Age
 
-**<center>Why it is Important to Stay Relevant</center>**
+Why it is Important to Stay Relevant
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Keeping up-to-date with advances in any field is important. From an economical perspective, staying relevant ensures that the an individual will be employable. Technology changes in almost every field, we need to stay on top of the changes.
+
+This is even more important in the technology field. In the late 1980's early 1990's the high of technology was the personal computer. Probably the main reason for this was the drop in the price of computing tech and the internet. In 1993 about 10% of United States households had a connection to the internet. By the year 2005 the adoption of the internet increased to 61% in the home, in 12 years the adoption increased 51%. Doesn't sound like a lot until you compare it to a common technology from the early part of the century, the automobile (Desjardins, 2018). 
+
+The technology that enables us to go from Seattle, WA to San Diego, CA in about 22 hours took 36 years to make the same percentage just the internet did in 12. When we look at a technology that almost all of us use today, the smartphone, the numbers are even more staggering. In 2011, 35% of households had a smartphone. By 2019, the percentage justed to 81% (Desjardins, 2018). 
+
+My point is that technology advances at an astounding rate across the board. But today technology is speeding up. The need to stay relevant is more important then ever in history. It maybe to the point where technology maybe out pacing our ability to keep up. 
+
+DBMS to Stay Current
 
 
-**<center>DBMS to Stay Current</center>**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-**<center>Difference Between Data and Information</center>**
+Difference Between Data and Information
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considering the fact that I have pretty much exclusively used the words 'data' and 'information' interchangeably, learning that the words are different is eye opening to me. Before going into the differences I will define both words first from the "Merriam-Webster dictionary. 
+Considering the fact that I have pretty much exclusively used the words 'data' and 'information' interchangeably, learning that the words are different is eye opening to me. Before going into the differences I will define both words first from the "Merriam-Webster dictionary. 
 
     Data - noun.
     2: information in digital form that can be transmitted or processed
@@ -30,24 +34,23 @@ Question: Write a paper of 800 – 1,000 words in APA format about The Informati
     Information - noun.
     1: knowledge obtained from investigation, study, or instruction
 
-**<center>Anomalies</center>**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-**<center>Decision Making</center>**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-**<center>Impact of "The Cloud"</center>**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Anomalies
 
 
 
-<div style='page-brake-after: always;'></div>
 
-## <center>References</center>
+Decision Making
+
+
+
+Impact of "The Cloud"
+
+
+
+
+References
+
+Desjardins, J. (2018.) The Rising Speed of Technological Adoption. Visual Capitalist. Retrieved from https://www.visualcapitalist.com/rising-speed-technological-adoption/
 
 Merriam-Webster. (n.d.). Data. In Merriam-Webster.com dictionary. Retrieved from https://www.merriam-webster.com/dictionary/data
 
